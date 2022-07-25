@@ -1,4 +1,4 @@
-# Eddy3d-Public
+# Eddy3D-Public
 Public repository for documentation and [user issue tracking](https://github.com/EnvironmentalSystemsLab/Eddy3D-Public/issues).
 
 ## Related repositories
